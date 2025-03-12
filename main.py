@@ -288,7 +288,6 @@ def active_day():
                 cap_horas = f.read()
 
             horas(cap_horas)
-
             finish()
 
 
